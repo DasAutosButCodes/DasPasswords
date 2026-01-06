@@ -33,6 +33,3 @@ It helps you quickly create strong passwords and store account data locally — 
 - Поле **Mark** для указания сайта или сервиса
 
 <img alt="Demo" src="https://github.com/user-attachments/assets/6a962ca4-7afe-48d5-b4c1-ad5d406c8ff1" />
-[▶ Watch demo video | Смотреть видео]([https://user-images.githubusercontent.com/....mp4](https://github.com/user-attachments/assets/41cf26fe-9100-4760-869f-0c3a8d9a830e))
-
-
